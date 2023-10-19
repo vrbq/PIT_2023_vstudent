@@ -23,7 +23,7 @@ On vient de recevoir un mail du client, je te mets une copie ici :
 >
 > Une agence de publicité m'a envoyé ce matin ce lien :
 >
-> https://github.com/vrbq/PIT_2023/blob/main/TP2/MISE_EN_SITUATION/pit.iso
+> https://tc-net.insa-lyon.fr/iso/pit.iso
 >
 > Je pense que c'est le film publicitaire qu'il vienne de réaliser pour l'entreprise !
 > Mais je n'arrive pas à ouvrir le fichier .iso sur ma machine en Debian.

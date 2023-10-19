@@ -27,8 +27,17 @@ Je sais que c'est une des deux commandes, mais je ne sais plus laquelle :
 
 Après avoir activé le Wi-Fi, tu peux te rendre à la prochaine étape.
 Pour cela, rends toi sur le lien suivant :
+https://github.com/vrbq/PIT_2023_vstudent/blob/main/TP2/2_iso.md
+(disponible aussi en version courte : http://bit.ly/pit-tp2-suite)
 
-(disponible aussi en version courte :)
+--- Suite ---
+
+Pour continuer le TP, lis chaque étape attentivement.
+Réalises ce qui est demandé, et une fois que tu penses avoir fini, passes à la prochaine étape.
+Les fichiers se suivent (une fois que 2 est fini, lis 3).
+
+A chaque début de fichier se trouve une liste d'actions nécessaires qui doivent être effectuées avant de lire cette partie.
+A chaque fin de fichier se trouve une liste d'actions qui a dû réaliser durant ta lecture.
 
 --- A propos de `vi` ---
 
